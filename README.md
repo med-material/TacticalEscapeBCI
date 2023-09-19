@@ -1,3 +1,7 @@
+**This code is a fork of a BCI project made by MED 6 students. Original Description below:**
+
+
+
 # BCI Turn-Based Strategy Game
 **Making Training Engaging for CP Rehabilitation**
 
